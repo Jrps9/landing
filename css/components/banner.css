@@ -1,0 +1,24 @@
+.banner {
+  position: relative;
+  display: flex;
+  height: 50vh;
+  background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url("https://images.pexels.com/photos/165213/pexels-photo-165213.jpeg?cs=srgb&dl=pexels-pok-rie-165213.jpg&fm=jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  object-fit: cover;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.banner-content {
+  width: 800px;
+  padding: 20px;
+  position: relative;
+  color: white;
+  top: 30px;
+  }
+
+.banner-content btn-yours:hover {
+    transform: translateY(-300%);
+}

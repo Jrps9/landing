@@ -1,0 +1,20 @@
+.btn-yours {
+  position: relative;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: #193479;
+  transition:1.3s ease;
+  bottom: -20px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+}
+
+.btn-yours:hover {
+  color: black;
+  opacity: 1;
+  background: #CBDAF9;
+  text-decoration: none;
+  padding: 15px 25px;
+  transition:1.3s ease;
+}

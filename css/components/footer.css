@@ -1,0 +1,27 @@
+.footer {
+  color: white;
+  text-align: center;
+  background-color: #245D78
+}
+
+.footer a {
+  color: #245D78;
+  margin: 20px;
+  transition: 2s ease;
+}
+
+.links:hover {
+  transition: 2s ease;
+  color: #245D78;
+  transform: translateY(-50%) scale(2);
+}
+
+.footer i {
+  transition: 2s ease;
+}
+
+.footer i:hover {
+  transition: 2s ease;
+  color: #245D78;
+  transform: scale(2.7);
+}
